@@ -1,0 +1,8 @@
+.editor-text-dark strong, .editor-text-dark h2{
+    color: rgb(253, 207, 78);
+    font-size: 24px;
+}
+.editor-text-light strong{
+    color: rgb(255, 157, 0);
+    font-size: 24px;
+}
