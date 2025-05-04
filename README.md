@@ -14,6 +14,7 @@
     10. py manage.py runserver
 
   В папці Frontend:
+    
     1. Відкрити її в Visial Studio Code
     2. Створити термінал
        3. Написати команди:
